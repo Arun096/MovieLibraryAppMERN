@@ -21,7 +21,7 @@ Use MongoDB to store movie information.
 
 1. Clone the moviesMERN
 
-   git clone https://github.com/kmaodus/moviesMERN.git
+   git clone https://github.com/Arun096/MovieLibraryAppMERN.git
 
 2. Install server NPM packages (inside root folder)
 
